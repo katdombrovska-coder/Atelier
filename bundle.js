@@ -39411,7 +39411,7 @@ const Hero = () => /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODUL
           fileName: _jsxFileName,
           lineNumber: 23,
           columnNumber: 11
-        }, undefined), "\u0410\u0442\u0435\u043B\u044C\u0454 \u2022 \u0420\u0435\u043C\u043E\u043D\u0442 \u0442\u0430 \u0456\u043D\u0434\u0438\u0432\u0456\u0434\u0443\u0430\u043B\u044C\u043D\u0435 \u043F\u043E\u0448\u0438\u0442\u0442\u044F"]
+        }, undefined), "Boutique tailoring service"]
       }, void 0, true, {
         fileName: _jsxFileName,
         lineNumber: 22,
